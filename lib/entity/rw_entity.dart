@@ -1,0 +1,4 @@
+mixin WREntity {
+
+  double? r;
+}
